@@ -6,7 +6,7 @@
 - UPC-A is now correctly reported on iOS (EAN-13 with a leading 0 is regarded as UPC-A).
 - Massively improved sample app with controls for all features.
 - Updated CameraX and ML Kit to the newest versions
-- Analyze single images from native image pickers, data or URL on iOS and Android
+- Analyze single images from native image pickers or data on iOS and Android
 
 ## 1.1.2
 
